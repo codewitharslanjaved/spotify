@@ -1,0 +1,24 @@
+.authentications{
+    background-color: rgba(25, 250, 0, 0.100);
+    top: 0;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    display: none;
+}
+
+.user-form{
+    width: 600px;
+    height: 700px;
+}
+.login-form{
+    display: none;
+}
+.signup-form{
+    display: none;
+}
+
+/* let's design the forms  */
+
+
